@@ -1,2 +1,2 @@
-# DeepLearningHumai
-repo for excersises and theory of deep learning humai 's course with PyTorch
+# Repositorio sobre material de estudio de Deep Learning
+
